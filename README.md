@@ -1,1 +1,1 @@
-Spotify Clone using Reactjs
+Spotify clone using Reactjs
